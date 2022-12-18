@@ -9,7 +9,7 @@ int start_number = number % 2;
 
 while (start_number != number + 2)
 {
-    Console.Write (start_number);
+    Console.Write(start_number);
     start_number = start_number + 2;
 }
 
